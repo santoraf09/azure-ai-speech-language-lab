@@ -38,9 +38,6 @@ Este repositório documenta a prática realizada no laboratório da DIO, aplican
 - [GitHub](https://github.com/)
 - Markdown
 
-## 🖼️ Capturas de Tela
-As imagens estão organizadas na pasta `/images`, separadas por etapa.
-
 ## ✅ Objetivos Alcançados
 - Aplicação prática de IA em linguagem e fala.
 - Uso das ferramentas do Azure com foco em desenvolvimento.
